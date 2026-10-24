@@ -135,12 +135,17 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 
 ## ▍ Recently shipped
 
+<!-- RECENT:START -->
 | When | What |
 | :--- | :--- |
-| **Oct 24** | **[Endless Drive for Android](https://github.com/hhaider3/endless-drive-android/releases/latest) v1.1**: 165 Hz on OnePlus, built to run the game above 60 fps. |
-| **Oct 24** | **[Endless Drive](https://github.com/hhaider3/project-magellan)**: a road network with junctions, markings, wet and night looks, rivers and bridges, plus motion blur by default on phones. |
-| **Oct 22** | **[macmpv 1.9](https://github.com/hhaider3/macmpv/releases/latest)** and **[andrompv v2.3.0](https://github.com/hhaider3/andrompv/releases/latest)**: torrents stop seeding when the queue is saved, the queue shows download progress, and saved videos play straight from disk. |
-| **Oct 13** | **[andrompv](https://github.com/hhaider3/andrompv)** begins: macmpv, rebuilt natively for Android. |
+| **Oct 24** | **[Endless Drive](https://github.com/hhaider3/project-magellan)**: Motion blur on by default on phones too. |
+| **Oct 24** | **[Endless Drive for Android v1.1](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.1)**: 165 Hz on OnePlus. |
+| **Oct 22** | **[andrompv v2.3.0](https://github.com/hhaider3/andrompv/releases/tag/v2.3.0)**: Finished torrents stop sharing. |
+| **Oct 22** | **[macmpv v1.9t](https://github.com/hhaider3/macmpv/releases/tag/v1.9t)**: Torrents stop sharing once every queued video is downloaded. |
+| **Sep 22** | **[Earth Orbit Live](https://github.com/hhaider3/live-sat-location)**: Make satellite dots reliably clickable and touch-friendly. |
+<!-- RECENT:END -->
+
+<sub>This table updates itself every day from my public GitHub activity.</sub>
 
 <br>
 

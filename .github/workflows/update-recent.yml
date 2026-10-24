@@ -1,0 +1,41 @@
+name: Update recently shipped
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # every day at 06:17 UTC
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_recent.py
+      - .github/workflows/update-recent.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-recent
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild the Recently shipped table
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_recent.py
+
+      - name: Commit if the table changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recently shipped"
+          git push
