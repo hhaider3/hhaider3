@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Hasan Haider, software engineer. Interactive experiences, native tools, playful experiments." width="100%">
+<a href="https://hhaider3.github.io/"><img src="assets/hero.svg" alt="Hasan Haider, software engineer. Interactive experiences, native tools, playful experiments. Click to open my portfolio." width="100%"></a>
 
 <br>
 
