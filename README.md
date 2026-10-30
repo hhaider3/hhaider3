@@ -138,7 +138,7 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <!-- RECENT:START -->
 | When | What |
 | :--- | :--- |
-| **Oct 26** | **[Endless Drive](https://github.com/hhaider3/project-magellan)**: Sound on by default, context restore, minimap and cache fixes, tag check. |
+| **Oct 30** | **[Endless Drive](https://github.com/hhaider3/project-magellan)**: Thunderstorms in heavy rain, and cherries only round ponds, lakes and seas. |
 | **Oct 24** | **[TERMINAL // BREACH](https://github.com/hhaider3/terminalshooter)**: Move the Python version to its own repository. |
 | **Oct 24** | **[terminalshooter-python](https://github.com/hhaider3/terminalshooter-python)**: new. TERMINAL // BREACH — original Python edition of the terminal FPS (see terminalshooter for the Rust version). |
 | **Oct 24** | **[Endless Drive for Android v1.1](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.1)**: 165 Hz on OnePlus. |
