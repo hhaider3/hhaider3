@@ -22,11 +22,11 @@ I build across the **browser, desktop, phone and terminal**: frontend performanc
 
 ### 🏜️ [Endless Drive](https://project-magellan.pages.dev/)
 
-An endless, procedurally generated world to **drive, sail and fly** through. The ATLAS is an off-road 4×4 that turns into a boat in deep water and unfolds into a plane on demand. Every visit grows a new world of meadows, pines, deserts, snowy ridges, lakes, rivers and inland seas, with a road network that follows the land, junctions, bridges, jump and barrel-roll ramps, day and night, rain and snow. Add `?seed=123456` to share a world.
+An endless, procedurally generated world to **drive, sail and fly** through. The ATLAS is an off-road 4×4 that turns into a boat in deep water and unfolds into a plane on demand; the Roadster is a low supercar with cold-gas thrusters that boosts, hovers and skims across lakes. Every visit grows a new world of meadows, pines, deserts, the snowbound Frostlands, lakes, rivers and inland seas, with a road network that follows the land, jump and barrel-roll ramps, thunderstorms, sandstorms and snowstorms, and its own soundtrack. **Synth mode** turns the whole drive into an endless 1980s sunset. Add `?seed=123456` to share a world.
 
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&labelColor=0d1424" alt="JavaScript"> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&labelColor=0d1424&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/Web_Workers-2b3a5c?style=flat-square&labelColor=0d1424" alt="Web Workers"> <img src="https://img.shields.io/badge/Cloudflare_Pages-f38020?style=flat-square&labelColor=0d1424&logo=cloudflare&logoColor=white" alt="Cloudflare Pages">
 
-<a href="https://project-magellan.pages.dev/"><b>▶ Play it</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/project-magellan"><b>Source</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/endless-drive-android/releases/latest"><b>Android app (up to 165 Hz)</b></a>
+<a href="https://project-magellan.pages.dev/"><b>▶ Play it</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/project-magellan"><b>Source</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/endless-drive-android/releases/latest"><b>Android app (above 60 fps)</b></a>
 
 <br>
 
@@ -37,7 +37,7 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <td width="50%" valign="top">
 <a href="https://github.com/hhaider3/macmpv"><img src="assets/macmpv.svg" alt="macmpv" width="100%"></a>
 <h3>🎬 <a href="https://github.com/hhaider3/macmpv">macmpv</a></h3>
-<p>Native macOS player built on SwiftUI, mpv and FFmpeg. Hardware-accelerated playback, subtitles you can style, instant seek previews, a persistent queue and torrent streaming. <b>1.9</b> shows per-video download progress, plays saved torrents straight from disk and stops seeding once the queue is done.</p>
+<p>Native macOS player built on SwiftUI, mpv and FFmpeg. Hardware-accelerated playback, subtitles you can style, instant seek previews, a persistent queue, torrent streaming and signed automatic updates. <b>1.9</b> shows per-video download progress, plays saved torrents straight from disk and stops seeding once the queue is done.</p>
 <p><img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&labelColor=0d1424&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/SwiftUI-0a84ff?style=flat-square&labelColor=0d1424&logo=swift&logoColor=white" alt="SwiftUI"> <img src="https://img.shields.io/badge/mpv-691f69?style=flat-square&labelColor=0d1424" alt="mpv"> <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&labelColor=0d1424&logo=ffmpeg&logoColor=white" alt="FFmpeg"></p>
 <p><a href="https://macmpv.pages.dev/"><b>Website & downloads</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/macmpv/releases/latest"><b>Latest release</b></a></p>
 </td>
@@ -79,7 +79,7 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <td width="50%" valign="top">
 <a href="https://github.com/hhaider3/terminalshooter"><img src="assets/breach.svg" alt="TERMINAL // BREACH" width="100%"></a>
 <h3>💥 <a href="https://github.com/hhaider3/terminalshooter">TERMINAL // BREACH</a></h3>
-<p>A five-wave arena FPS that runs entirely in your terminal: procedural renderer, enemy AI, shotgun combat and incremental ANSI output so it stays fast over SSH.</p>
+<p>An arena FPS that runs entirely in your terminal: five waves, then endless ones if you survive. Procedural renderer, enemy AI, shotgun combat, a saved profile with your best score, and pixel-precise mouse aim where the terminal allows it.</p>
 <p><img src="https://img.shields.io/badge/Rust-ce412b?style=flat-square&labelColor=0d1424&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/Crossterm-2b3a5c?style=flat-square&labelColor=0d1424" alt="Crossterm"></p>
 <p><a href="https://github.com/hhaider3/terminalshooter"><b>Source</b></a></p>
 </td>
@@ -107,7 +107,7 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <td width="50%" valign="top">
 <a href="https://github.com/hhaider3/endless-drive-android"><img src="assets/android-drive.svg" alt="Endless Drive for Android" width="100%"></a>
 <h3>📱 <a href="https://github.com/hhaider3/endless-drive-android">Endless Drive for Android</a></h3>
-<p>The driving game in a full-screen Android app whose only job is to ask the display for its fastest refresh rate. Chrome holds pages at 60 Hz on many phones; this runs up to 165 Hz.</p>
+<p>The driving game in a full-screen Android app. Chrome holds pages at 60 Hz on many phones; this asks the display for its fastest mode so the game runs above 60 fps, and new game versions download themselves over Wi-Fi.</p>
 <p><img src="https://img.shields.io/badge/Java-e76f00?style=flat-square&labelColor=0d1424&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&labelColor=0d1424&logo=android&logoColor=white" alt="Android"> <img src="https://img.shields.io/badge/WebView-2b3a5c?style=flat-square&labelColor=0d1424" alt="WebView"></p>
 <p><a href="https://github.com/hhaider3/endless-drive-android/releases/latest"><b>Download APK</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/endless-drive-android"><b>Source</b></a></p>
 </td>
@@ -127,6 +127,7 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <br>
 
 - **[GeoAnalysis Engineering website](https://github.com/hhaider3/newsite)**: React website with company information, services, publications and contact pages.
+- **[TERMINAL // BREACH, Python edition](https://github.com/hhaider3/terminalshooter-python)**: the original version of the terminal FPS, no longer developed since the Rust rewrite.
 - **[Cloudflare Warp WireGuard Client](https://github.com/hhaider3/cloudflare-warp-wireguard-client)**: a fork of a Python utility for generating WireGuard profiles from Cloudflare Warp accounts. Original project by [ViRb3](https://github.com/ViRb3/cloudflare-warp-wireguard-client).
 
 </details>
@@ -138,14 +139,14 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <!-- RECENT:START -->
 | When | What |
 | :--- | :--- |
-| **Nov 1** | **[Endless Drive](https://github.com/hhaider3/project-magellan)**: Far synth props glow no brighter than up close, and no ice in synth mode. |
-| **Oct 31** | **[Endless Drive for Android v1.3](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.3)**: Fixes music tracks stopping partway and staying silent, Synth most of all, even after switching away and back. |
-| **Oct 24** | **[TERMINAL // BREACH](https://github.com/hhaider3/terminalshooter)**: Move the Python version to its own repository. |
-| **Oct 24** | **[terminalshooter-python](https://github.com/hhaider3/terminalshooter-python)**: new. TERMINAL // BREACH — original Python edition of the terminal FPS (see terminalshooter for the Rust version). |
-| **Oct 22** | **[andrompv v2.3.0](https://github.com/hhaider3/andrompv/releases/tag/v2.3.0)**: Finished torrents stop sharing. |
+| **Nov&nbsp;1** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>34 changes since Oct 18</sub><br>Synth mode · A garage to view the cars from the main menu · Music · Roadster with cold-gas thrusters · Roads with character · Steadier ground · The Frostlands |
+| **Oct&nbsp;31** | **[Endless Drive for Android](https://github.com/hhaider3/endless-drive-android)** [v1.3](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.3) <sub>2 changes since Oct 24</sub><br>Music that doesn't stall · The game keeps itself up to date · Answer byte-range requests |
+| **Oct&nbsp;24** | **[TERMINAL // BREACH](https://github.com/hhaider3/terminalshooter)** <sub>4 changes on Oct 24</sub><br>Endless mode, saved profile and pixel aim · Move the Python version to its own repository · Cut terminal output |
+| **Oct&nbsp;24** | **[macmpv](https://github.com/hhaider3/macmpv)** [v1.9t](https://github.com/hhaider3/macmpv/releases/tag/v1.9t) <sub>8 changes since Oct 15</sub><br>Torrents stop sharing once every queued video is downloaded · Automatic updates · Move removed queue files to Trash · Cut playback main-thread and CPU load |
+| **Oct&nbsp;22** | **[andrompv](https://github.com/hhaider3/andrompv)** [v2.3.0](https://github.com/hhaider3/andrompv/releases/tag/v2.3.0) <sub>6 changes since Oct 13</sub><br>Finished torrents stop sharing · A floating control bar with Material icons in place of emoji · Only queued videos are downloaded · Seek bar dragging works |
 <!-- RECENT:END -->
 
-<sub>This table updates itself every day from my public GitHub activity.</sub>
+<sub>Updated daily. Each row lists the main themes of a project's last two weeks of work, picked from its commits and release notes.</sub>
 
 <br>
 
