@@ -138,10 +138,10 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <!-- RECENT:START -->
 | When | What |
 | :--- | :--- |
-| **Oct 31** | **[Endless Drive](https://github.com/hhaider3/project-magellan)**: Keep the mode button beside Start, stacking its label when the row is tight. |
+| **Nov 1** | **[Endless Drive](https://github.com/hhaider3/project-magellan)**: Far synth props glow no brighter than up close, and no ice in synth mode. |
+| **Oct 31** | **[Endless Drive for Android v1.3](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.3)**: Fixes music tracks stopping partway and staying silent, Synth most of all, even after switching away and back. |
 | **Oct 24** | **[TERMINAL // BREACH](https://github.com/hhaider3/terminalshooter)**: Move the Python version to its own repository. |
 | **Oct 24** | **[terminalshooter-python](https://github.com/hhaider3/terminalshooter-python)**: new. TERMINAL // BREACH — original Python edition of the terminal FPS (see terminalshooter for the Rust version). |
-| **Oct 24** | **[Endless Drive for Android v1.1](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.1)**: 165 Hz on OnePlus. |
 | **Oct 22** | **[andrompv v2.3.0](https://github.com/hhaider3/andrompv/releases/tag/v2.3.0)**: Finished torrents stop sharing. |
 <!-- RECENT:END -->
 
