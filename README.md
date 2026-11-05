@@ -139,11 +139,11 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <!-- RECENT:START -->
 | When | What |
 | :--- | :--- |
-| **Nov&nbsp;2** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>36 changes since Oct 20</sub><br>Synth mode · A garage to view the cars from the main menu · Music · Roadster with cold-gas thrusters · Roads with character · Steadier ground · Hills cast shadows |
+| **Nov&nbsp;5** | **[TsukiRE-SwitchtoMac](https://github.com/hhaider3/TsukiRE-SwitchtoMac)** <sub>27 changes since Oct 25</sub><br>Feat · Refactor(Install) · Feature(Patches/Updates) · Added tsuire-pc-port · Native macOS (Apple silicon) support |
+| **Nov&nbsp;5** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>37 changes since Oct 22</sub><br>Synth mode · A garage to view the cars from the main menu · Hills cast shadows · Music · Roadster with cold-gas thrusters · Roads with character · Steadier ground |
 | **Nov&nbsp;1** | **[Earth Orbit Live](https://github.com/hhaider3/live-sat-location)** <sub>3 changes on Nov 1</sub><br>Finish the review's remaining fixes · Patch development dependencies flagged by npm audit |
 | **Oct&nbsp;31** | **[Endless Drive for Android](https://github.com/hhaider3/endless-drive-android)** [v1.3](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.3) <sub>2 changes since Oct 24</sub><br>Music that doesn't stall · The game keeps itself up to date · Answer byte-range requests |
 | **Oct&nbsp;24** | **[TERMINAL // BREACH](https://github.com/hhaider3/terminalshooter)** <sub>4 changes on Oct 24</sub><br>Endless mode, saved profile and pixel aim · Move the Python version to its own repository · Cut terminal output |
-| **Oct&nbsp;24** | **[macmpv](https://github.com/hhaider3/macmpv)** [v1.9t](https://github.com/hhaider3/macmpv/releases/tag/v1.9t) <sub>8 changes since Oct 15</sub><br>Torrents stop sharing once every queued video is downloaded · Automatic updates · Move removed queue files to Trash · Cut playback main-thread and CPU load |
 <!-- RECENT:END -->
 
 <sub>Updated daily. Each row lists the main themes of a project's last two weeks of work, picked from its commits and release notes.</sub>
