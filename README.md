@@ -1,11 +1,6 @@
 <div align="center">
 
-<a href="https://hhaider3.github.io/"><img src="assets/hero.svg" alt="Hasan Haider, software engineer. Interactive experiences, native tools, playful experiments. Click to open my portfolio." width="100%"></a>
-
-<br>
-
 <a href="https://hhaider3.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-hhaider3.github.io-ffb454?style=flat-square&labelColor=0d1424" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/hasan-haider-52026a67/"><img src="https://img.shields.io/badge/LINKEDIN-connect-4fe3d4?style=flat-square&labelColor=0d1424" alt="LinkedIn"></a>
 <a href="https://github.com/hhaider3?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-browse-a78bfa?style=flat-square&labelColor=0d1424" alt="Repositories"></a>
 
 </div>
@@ -161,6 +156,6 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 
 <br><br>
 
-<sub>Questions, ideas or odd projects? <a href="https://www.linkedin.com/in/hasan-haider-52026a67/">Say hello on LinkedIn</a> or explore the <a href="https://hhaider3.github.io/">interactive portfolio</a>.</sub>
+<sub>Questions, ideas or odd projects? Explore the <a href="https://hhaider3.github.io/">interactive portfolio</a>.</sub>
 
 </div>
