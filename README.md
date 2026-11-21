@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://hhaider3.github.io/"><img src="assets/hero.svg" alt="hhaider3, software engineer. Interactive experiences, native tools, playful experiments. Click to open my portfolio." width="100%"></a>
+
+<br>
+
 <a href="https://hhaider3.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-hhaider3.github.io-ffb454?style=flat-square&labelColor=0d1424" alt="Portfolio"></a>
 <a href="https://github.com/hhaider3?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-browse-a78bfa?style=flat-square&labelColor=0d1424" alt="Repositories"></a>
 
@@ -86,6 +90,16 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <p><a href="https://site-creator-vinext-starter.hasanhaider009.workers.dev/"><b>Play chess</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/stockfishonline"><b>Source</b></a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://kerbal-ish.pages.dev/"><img src="assets/ksp.svg" alt="Kerbal-ish Space Program" width="100%"></a>
+<h3>🚀 <a href="https://kerbal-ish.pages.dev/">Kerbal-ish Space Program</a></h3>
+<p>A browser spaceflight sandbox inspired by Kerbal Space Program. Build staged rockets from 40 parts, fly through the atmosphere, plan maneuvers, reach orbit and land on the Mun. Inverse-square gravity, drag and pressure-dependent engines, with an autopilot that flies you to orbit.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&labelColor=0d1424" alt="JavaScript"> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&labelColor=0d1424&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/Cloudflare_Pages-f38020?style=flat-square&labelColor=0d1424&logo=cloudflare&logoColor=white" alt="Cloudflare Pages"></p>
+<p><a href="https://kerbal-ish.pages.dev/"><b>▶ Launch it</b></a> &nbsp;·&nbsp; <a href="https://github.com/hhaider3/ksp"><b>Source</b></a></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## ▍ More from the workshop
@@ -135,7 +149,7 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 | When | What |
 | :--- | :--- |
 | **Nov&nbsp;21** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>7 changes since Nov 18</sub><br>The plane flies in real air · The Light Cycle's exhaust blades turn in flight · GitHub's checks finish in minutes · The Roadster has a new body |
-| **Nov&nbsp;20** | **[ksp](https://github.com/hhaider3/ksp)** <sub>1 change on Nov 20</sub><br>Kerbal-ish Space Program |
+| **Nov&nbsp;20** | **[Kerbal-ish Space Program](https://github.com/hhaider3/ksp)** <sub>1 change on Nov 20</sub><br>Kerbal-ish Space Program |
 | **Nov&nbsp;19** | **[macmpv](https://github.com/hhaider3/macmpv)** [v2.0](https://github.com/hhaider3/macmpv/releases/tag/v2.0) <sub>5 changes on Nov 19</sub><br>Subtitle files stay with their video · One download · Require macOS 27 from 2.0 |
 | **Nov&nbsp;5** | **[TsukiRE-SwitchtoMac](https://github.com/hhaider3/TsukiRE-SwitchtoMac)** <sub>27 changes since Oct 25</sub><br>Feat · Refactor(Install) · Feature(Patches/Updates) · Added tsuire-pc-port · Native macOS (Apple silicon) support |
 | **Nov&nbsp;1** | **[Earth Orbit Live](https://github.com/hhaider3/live-sat-location)** <sub>3 changes on Nov 1</sub><br>Finish the review's remaining fixes · Patch development dependencies flagged by npm audit |

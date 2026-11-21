@@ -45,6 +45,7 @@ DISPLAY = {
     "stockfishonline": "Stockfish Board",
     "motionlab": "Motion Lab",
     "ble-scanner": "NearbyBluetooth",
+    "ksp": "Kerbal-ish Space Program",
 }
 
 # Commits that say nothing about what shipped, or whose change was later undone
