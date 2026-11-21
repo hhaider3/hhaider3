@@ -134,11 +134,11 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <!-- RECENT:START -->
 | When | What |
 | :--- | :--- |
-| **Nov&nbsp;20** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>3 changes since Nov 18</sub><br>The world looks more real · GitHub's checks finish in minutes · The Roadster has a new body |
+| **Nov&nbsp;21** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>7 changes since Nov 18</sub><br>The plane flies in real air · The Light Cycle's exhaust blades turn in flight · GitHub's checks finish in minutes · The Roadster has a new body |
+| **Nov&nbsp;20** | **[ksp](https://github.com/hhaider3/ksp)** <sub>1 change on Nov 20</sub><br>Kerbal-ish Space Program |
 | **Nov&nbsp;19** | **[macmpv](https://github.com/hhaider3/macmpv)** [v2.0](https://github.com/hhaider3/macmpv/releases/tag/v2.0) <sub>5 changes on Nov 19</sub><br>Subtitle files stay with their video · One download · Require macOS 27 from 2.0 |
 | **Nov&nbsp;5** | **[TsukiRE-SwitchtoMac](https://github.com/hhaider3/TsukiRE-SwitchtoMac)** <sub>27 changes since Oct 25</sub><br>Feat · Refactor(Install) · Feature(Patches/Updates) · Added tsuire-pc-port · Native macOS (Apple silicon) support |
 | **Nov&nbsp;1** | **[Earth Orbit Live](https://github.com/hhaider3/live-sat-location)** <sub>3 changes on Nov 1</sub><br>Finish the review's remaining fixes · Patch development dependencies flagged by npm audit |
-| **Oct&nbsp;31** | **[Endless Drive for Android](https://github.com/hhaider3/endless-drive-android)** [v1.3](https://github.com/hhaider3/endless-drive-android/releases/tag/v1.3) <sub>2 changes since Oct 24</sub><br>Music that doesn't stall · The game keeps itself up to date · Answer byte-range requests |
 <!-- RECENT:END -->
 
 <sub>Updated daily. Each row lists the main themes of a project's last two weeks of work, picked from its commits and release notes.</sub>
