@@ -148,7 +148,7 @@ An endless, procedurally generated world to **drive, sail and fly** through. The
 <!-- RECENT:START -->
 | When | What |
 | :--- | :--- |
-| **Nov&nbsp;21** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>7 changes since Nov 18</sub><br>The plane flies in real air · The Light Cycle's exhaust blades turn in flight · GitHub's checks finish in minutes · The Roadster has a new body |
+| **Nov&nbsp;21** | **[Endless Drive](https://github.com/hhaider3/project-magellan)** <sub>11 changes since Nov 18</sub><br>Scenery and roadside models · The plane flies in real air · The Light Cycle's exhaust blades turn in flight · GitHub's checks finish in minutes · 16-bit mode |
 | **Nov&nbsp;20** | **[Kerbal-ish Space Program](https://github.com/hhaider3/ksp)** <sub>1 change on Nov 20</sub><br>Kerbal-ish Space Program |
 | **Nov&nbsp;19** | **[macmpv](https://github.com/hhaider3/macmpv)** [v2.0](https://github.com/hhaider3/macmpv/releases/tag/v2.0) <sub>5 changes on Nov 19</sub><br>Subtitle files stay with their video · One download · Require macOS 27 from 2.0 |
 | **Nov&nbsp;5** | **[TsukiRE-SwitchtoMac](https://github.com/hhaider3/TsukiRE-SwitchtoMac)** <sub>27 changes since Oct 25</sub><br>Feat · Refactor(Install) · Feature(Patches/Updates) · Added tsuire-pc-port · Native macOS (Apple silicon) support |
